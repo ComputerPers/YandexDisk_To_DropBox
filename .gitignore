@@ -1,0 +1,10 @@
+.worktrees/
+__pycache__/
+*.pyc
+.dropbox
+.yadisk
+.yd2dbx.db
+.yd2dbx.db-wal
+.yd2dbx.db-shm
+reports/
+logs/
